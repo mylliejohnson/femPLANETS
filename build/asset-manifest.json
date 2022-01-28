@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/femPLANETS/static/css/main.a5873111.css",
+    "main.js": "/femPLANETS/static/js/main.3533bffb.js",
+    "static/media/saturn.png": "/femPLANETS/static/media/saturn.4d136c570b6f9ffa1111.png",
+    "static/media/jupiter.png": "/femPLANETS/static/media/jupiter.014c0f5467df3d94cdd7.png",
+    "static/media/earth.png": "/femPLANETS/static/media/earth.417c2df8b256645b0113.png",
+    "static/media/geology-mercury.png": "/femPLANETS/static/media/geology-mercury.aa6732c318454e3fc480.png",
+    "static/media/uranus.png": "/femPLANETS/static/media/uranus.cbc4b3f16dfc9f116192.png",
+    "static/media/neptune.png": "/femPLANETS/static/media/neptune.56de8a8f9bad7464d86e.png",
+    "static/media/venus.png": "/femPLANETS/static/media/venus.26cb743ecbef0491ad22.png",
+    "static/media/mars.png": "/femPLANETS/static/media/mars.14c05f2ba073ec2206d9.png",
+    "static/media/mercury.png": "/femPLANETS/static/media/mercury.3f69c487aedf31cbd2f5.png",
+    "static/media/background-stars.svg": "/femPLANETS/static/media/background-stars.f6233a6a8d2351c57f2b.svg",
+    "static/media/planet-mercury-internal.svg": "/femPLANETS/static/media/planet-mercury-internal.d1be143201898fac437968baae616e6b.svg",
+    "index.html": "/femPLANETS/index.html",
+    "main.a5873111.css.map": "/femPLANETS/static/css/main.a5873111.css.map",
+    "main.3533bffb.js.map": "/femPLANETS/static/js/main.3533bffb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5873111.css",
+    "static/js/main.3533bffb.js"
+  ]
+}

@@ -33,7 +33,7 @@ function App(props) {
     return (
         <div>
             <Navbar />
-
+            hello!!
             <Routes>
                 <Route path='/Mercury' element={<Mercury />} />
                 <Route path='/Venus' element={<Venus />} />
