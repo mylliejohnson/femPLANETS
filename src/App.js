@@ -1,8 +1,10 @@
 import "./App.css";
-import React from 'react';
+import React, { useState } from 'react';
 import { Routes, Route } from "react-router-dom";
 import Navbar from "./components/Navbar";
 import data from "./data.json"
+
+import Planet from "./components/Planet";
 
 import Mercury from "./components/Mercury";
 import Venus from './components/Venus'
@@ -13,11 +15,25 @@ import Saturn from './components/Saturn'
 import Uranus from './components/Uranus'
 import Neptune from "./components/Neptune";
 
-function App() {
+function App(props) {
+
+    let planets = {
+        mercury: data[0],
+        venus: data[1],
+        earth: data[2],
+        mars: data[3],
+        jupiter: data[4],
+        saturn: data[5],
+        uranus: data[6],
+        neptune: data[7]
+    }
+
+
 
     return (
         <div>
             <Navbar />
+
             <Routes>
                 <Route path='/Mercury' element={<Mercury />} />
                 <Route path='/Venus' element={<Venus />} />
